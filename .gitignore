@@ -1,0 +1,6 @@
+*.png
+.project
+.classpath
+desktop.ini
+.settings/
+Thumbs.db
